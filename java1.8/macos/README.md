@@ -1,6 +1,6 @@
 
 
-##2. Copy them to `$JAVA_HOME` : 
+##2. Copy them to `$JAVA_HOME/lib` : 
 
 ```
 sudo cp -r ./java1.8/macos/* /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/
